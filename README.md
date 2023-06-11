@@ -15,4 +15,4 @@ Para utilizar em código externo, será necessário definir a classe **FeatureEx
 
 Não utilizar com sobrenomes, o modelo foi treinado somente com os primeiros nomes de indivíduos
 
-![](https://image_url.png)
+![]([https://image_url.png](https://github.com/cnmoro/GenderDetectorByName/blob/master/pipe.png?raw=true))
